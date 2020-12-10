@@ -3,13 +3,13 @@ http://icecast.radiofrance.fr/franceinter-midfi.mp3
 # Generation fm
 http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 # Radio soleil
-
+ http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
 #Radio France internationale
-
+http://live02.rfi.fr/rfimonde-96k.mp3
 #Radio libertaire
 
 #TSF Jazz
-http://broadcast.infomaniak.net/tsfjazz-high.mp3
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #Nostalgie
 https://scdn.nrjaudio.fm/fr/30601/mp3_128.mp3?origine=ubuntu_website&cdn_path=audio_lbs10
 #Chante France
@@ -21,13 +21,13 @@ http://direct.francemusique.fr/live/francemusique-midfi.mp3
 #Mouv’
 http://direct.mouv.fr/live/mouv-midfi.mp3 
 #Tropiques FM
-
+http://listen.radioking.com/radio/8916/stream/19088
 #Aligre FM
 http://live3.vestaradio.com/aligrefm
 #France culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
 #Radio Campus Paris
-
+http://stream.radiocampusparis.org:8000/stream_rcp
 #Vivre FM
 
 #Radio Orient
@@ -35,13 +35,13 @@ http://stream3.broadcast-associes.com:8405/Radio-Orient
 #Judaïques FM
 
 #Radio J
-
+http://radioj.hbgt.infoclip.fr:8000/radioj
 #Radio shalom
-
+https://listen.radioking.com/radio/130300/stream/170152
 #RCJ
-
-#Néo
-http://stream.radioneo.org:8000/
+http://str0.creacast.com/radio-rcj
+#Neo
+http://stream.radioneo.org:8000
 #Radio Ici et Maintenant
 http://radio.rim952.fr:8000/stream.mp3
 #Radio courtoisie
@@ -109,4 +109,4 @@ http://direct.francebleu.fr/live/fb1071-midfi.mp3
 #Africa radio
 https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #SANEF 107.7
-#
+
