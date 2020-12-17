@@ -7,7 +7,7 @@ http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #Radio France internationale
 http://live02.rfi.fr/rfimonde-96k.mp3
 #Radio libertaire
-
+http://media.radio-libertaire.org:8080/radiolib.mp3
 #TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #Nostalgie
@@ -28,12 +28,12 @@ http://live3.vestaradio.com/aligrefm
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
 #Radio Campus Paris
 http://stream.radiocampusparis.org:8000/stream_rcp
-#Vivre FM
-
+#!Vivre FM
+https://vivrefm.ice.infomaniak.ch/vivrefm-128.mp3
 #Radio Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
-#Judaïques FM
-
+#!Judaïques FM
+https://www.radioking.com/play/jfm-2
 #Radio J
 http://radioj.hbgt.infoclip.fr:8000/radioj
 #Radio shalom
@@ -60,7 +60,7 @@ http://swingfm.ice.infomaniak.ch:80/swingfm-128
 http://radiofg.impek.com/fg
 #Radio Alfa
 http://5.39.87.10:9860/paris
-#Radio latina
+#!Radio latina
 http://91.121.86.78:8012/;stream.mp3
 #AYP FM
 https://stric6.streamakaci.com/radioayp.mp3
@@ -71,12 +71,12 @@ https://start-sud.ice.infomaniak.ch/start-sud-high.mp3
 #NRJ
 https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=ubuntu_website
 #Fréquence protestante
-
+http://stream2.broadcast-associes.com:9000/Frequence-Protestante
 #Radio Notre Dame
-
+https://windu.radionotredame.net/RadioNotreDame-Fm.mp3
 #Radio classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
-#Radio Nova
+#!Radio Nova
 http://broadcast.infomaniak.net/radionova-high.mp3
 #Fun radio
 http://streaming.radio.funradio.fr:80/fun-1-44-128
@@ -92,13 +92,13 @@ https://stream.virginradio.fr/virgin.aac?aw_0_1st.playerid=lagardereWebVirgin
 https://stream.rfm.fr/rfm.mp3
 #RTL
 http://streaming.radio.rtl.fr/rtl-1-44-128
-#Europe 1
+#!Europe 1
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
 #FIP
 http://direct.fipradio.fr/live/fip-midfi.mp3 
 #France info
 http://direct.franceinfo.fr/live/franceinfo-lofi.mp3 
-#RTL 2
+#!RTL 2
 http://streaming.radio.rtl2.fr:80/rtl2-1-44-96
 #Fréquence Paris plurielle
 http://radio.toile-libre.org:8000/fpp.mp3
